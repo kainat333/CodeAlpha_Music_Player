@@ -1,10 +1,10 @@
 
+import AppRoutes from './app-routes'
 import './App.css'
-import Player from './player'
 
 const App=()=>{
   return (
-   <Player/>
+   <AppRoutes/>
   )
 }
 
